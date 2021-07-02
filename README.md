@@ -2,6 +2,8 @@
 A simple program to add purchase of the customers in the blockchain.
 Follow instructions from the video --> https://youtu.be/auvOpzSDxjs
 
+This repository contains my code following Udemy's Blockchain A-Z™: Learn How To Build Your First Blockchain, by Kirill Eremenko and Hadelin de Ponteves.
+
 ## OPERATIONS :
 
 1. Connect Nodes
