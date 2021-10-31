@@ -1,6 +1,5 @@
 # ration_blockchain
 A simple program to add purchase of the customers in the blockchain.
-Follow instructions from the video --> https://youtu.be/auvOpzSDxjs
 
 This repository contains my code following Udemy's Blockchain A-Z™: Learn How To Build Your First Blockchain, by Kirill Eremenko and Hadelin de Ponteves.
 
@@ -50,3 +49,6 @@ This repository contains my code following Udemy's Blockchain A-Z™: Learn How 
 3. proof_of_work : compute the desired hash challenge
 4. hash : returns the hash value
 5. add_node : for connecting the nodes
+
+## VIDEO DEMONSTATION
+[![Demonstration](https://img.youtube.com/vi/auvOpzSDxjs/maxresdefault.jpg)](https://www.youtube.com/watch?v=auvOpzSDxjs)</br>
