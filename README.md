@@ -1,7 +1,7 @@
 # ration_blockchain
 A simple program to add purchase of the customers in the blockchain.
 
-This repository contains my code following Udemy's Blockchain A-Z™: Learn How To Build Your First Blockchain, by Kirill Eremenko and Hadelin de Ponteves.
+This repository contains my code inspired from "Udemy's Blockchain A-Z™: Learn How To Build Your First Blockchain, by Kirill Eremenko and Hadelin de Ponteves".
 
 ## OPERATIONS :
 
